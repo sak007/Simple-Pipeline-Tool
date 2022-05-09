@@ -1,16 +1,7 @@
 # Pipeline Tool 
 
 ### A pipeline tool to automate builds.
-### Final Exam
 
-| | |
-|-|-|
-| **Name** | Ashok Kumar Selvam |
-| **Unity ID** | aselvam |
-| **Email** | aselvam@ncsu.edu |
-| **Development Env** | M1 MAC |
-
-Note: The new features are not tested on Windows or Intel Mac.
 
 
 
